@@ -46,6 +46,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
+~~~
 # 1. Set variable a to the result of the expression 0 == True
 a = (0 == True)
 
@@ -69,7 +70,7 @@ print("c:", c)
 
 # 8. Print the value of d with the label "d:"
 print("d:", d)
-
+~~~
 
 
 ## Output
@@ -118,6 +119,7 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
+~~~
 # 1. Read an integer input from the user and assign it to the variable a (real part)
 a = int(input("Enter the real part: "))
 
@@ -135,7 +137,7 @@ print("Real part:", x.real)
 
 # 6. Print the imaginary part of x using x.imag
 print("Imaginary part:", x.imag)
-
+~~~
 
 
 
@@ -160,13 +162,14 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
+~~~
 # Step 1: Assign a variable named men_stepped_on_the_moon
 # Step 2: Use input() to read a string from the user and store it in the variable
 men_stepped_on_the_moon = input("Enter the number of men who have stepped on the moon: ")
 
 # Step 3: Print the value stored in the variable
 print(men_stepped_on_the_moon)
-
+~~~
 
 
 
@@ -175,20 +178,3 @@ print(men_stepped_on_the_moon)
 ![alt text](image-4.png)
 ## Result
 The given program is successfully executed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
